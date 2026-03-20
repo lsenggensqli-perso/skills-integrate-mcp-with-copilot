@@ -198,3 +198,22 @@ footer {
   padding: 20px;
   color: #666;
 }
+
+#add-activity-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#add-activity-button {
+  background-color: #1a237e;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+#add-activity-button:hover {
+  background-color: #3949ab;
+}
